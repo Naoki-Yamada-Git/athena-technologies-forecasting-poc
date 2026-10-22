@@ -1,6 +1,7 @@
 /data/
 /results/
-/report/
+/report/*
+!/report/Athena_ML_PoC_report_final.pdf
 .venv/
 node_modules/
 __pycache__/
